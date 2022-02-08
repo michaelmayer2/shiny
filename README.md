@@ -9,6 +9,8 @@
 
 Easily build rich and productive interactive web apps in R &mdash; no HTML/CSS/JavaScript required.
 
+I am fixing a bug to test if packrat uploads the package again from updated main branch
+
 ## Features
 
 * An intuitive and extensible [reactive programming](https://en.wikipedia.org/wiki/Reactive_programming) model which makes it easy to transform existing R code into a "live app" where outputs automatically react to new user input.
